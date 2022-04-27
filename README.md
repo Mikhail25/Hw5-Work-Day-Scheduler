@@ -21,3 +21,5 @@ This program includes:
     * Program will automatically load information form the local storage to retain information
 
 [Link to the web-page itself](https://mikhail25.github.io/Hw5-Work-Day-Scheduler/)
+
+![Image of the web-application itself](./images/Screenshot%201.png)
